@@ -1,0 +1,10 @@
+Package: com.rossdarker.deafen
+Name: Deafen
+Depends: mobilesubstrate, firmware (>= 6.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Disables screen waking up on high volume.
+Maintainer: RossDarker
+Author: RossDarker
+Icon: https://rossdarker.github.io/repo/Files/dfn/com.rthakrar.deafen.png
+Section: Tweaks
